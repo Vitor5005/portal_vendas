@@ -7,3 +7,5 @@ com a ultilização do git
 
 Autor:
     João Vitor Ferreira da Silva
+
+Projeto Web Academy
